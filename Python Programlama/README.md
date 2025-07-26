@@ -10,7 +10,7 @@ Bu klasör, Python temelleri ile veri analizi konularını kapsayan örnekler ve
 Aşağıdaki konular örnek kodlar ile anlatılmıştır:
 
 - **Veri Yapıları:** Listeler, demetler (tuples), sözlükler (dictionaries), kümeler (sets) gibi yapılar
-- **Fonksiyonlar:** Parametreli fonksiyonlar, lambda ifadeleri, *args ve **kwargs kullanımı
+- **Fonksiyonlar:** Parametreli fonksiyonlar
 - **Koşullar:** `if`, `elif`, `else` yapıları ile karar verme mekanizmaları
 - **Döngüler:** `for` ve `while` döngüleri ile tekrar yapıları
 
