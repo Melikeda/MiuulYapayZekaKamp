@@ -21,7 +21,7 @@ Python'da veri analizi yaparken kullanılan NumPy ve Pandas kütüphanelerine y�
   👉 NumPy dizileri ve Pandas DataFrame'leri üzerinde temel işlemler
 
 - `numpy_pandas_case.py`  
-  👉 NumPy ve Pandas bilgilerini pekiştiren uygulamalı örnekler (case)
+  👉 NumPy ve Pandas bilgilerini pekiştiren uygulamalı örnekler
 
 ### 🔹 Python Temelleri Case Dosyaları
 
