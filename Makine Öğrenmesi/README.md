@@ -1,40 +1,34 @@
-# 📚 Makine Öğrenmesi Eğitimi
+# 🤖 Makine Öğrenmesi Eğitimi
 
-Eğitimi tamamladığınızda aşağıdaki konularda sağlam bilgi sahibi olacaksınız:
-
----
-
-## 🚀 Konu Başlıkları
-
-### 1.  Temel Kavramlar  
-Makine öğrenmesinin prensipleri, türleri ve temel bileşenleri.
+Bu eğitim sonunda makine öğrenmesi temel kavramları ve yaygın modeller hakkında sağlam bir bilgi birikimine sahip olacaksınız.  
+Teorik bilgileri gerçek veri setleriyle uygulamalı olarak pekiştireceksiniz.
 
 ---
 
-### 2.  Doğrusal Regresyon (Linear Regression)  
-Sürekli değişkenlerin tahmini için kullanılan basit ve etkili model.
+## 🚀 Eğitim Konuları
+
+| #  | Konu Başlığı                               | Açıklama                                                     |
+|-----|-------------------------------------------|--------------------------------------------------------------|
+| 1️⃣ | **Temel Kavramlar**                        | Makine öğrenmesinin prensipleri, türleri ve temel bileşenleri |
+| 2️⃣ | **Doğrusal Regresyon (Linear Regression)**| Sürekli değişkenlerin tahmini için kullanılan basit ve etkili model |
+| 3️⃣ | **Lojistik Regresyon (Sınıflandırma)**    | İkili sınıflandırma problemlerinde kullanılan regresyon temelli model |
+| 4️⃣ | **CART (Classification and Regression Tree)** | Karar ağaçları yöntemiyle sınıflandırma ve regresyon uygulamaları |
+| 5️⃣ | **Uygulamalar**                            | Teorik bilgilerin gerçek veri setleri üzerinde pratik uygulaması |
 
 ---
 
-### 3.  Lojistik Regresyon (Sınıflandırma Problemi)  
-İkili sınıflandırma problemlerinde kullanılan regresyon temelli model.
+## 🎯 Eğitim Sonrasında Kazanımlarınız
+
+- ✔️ Makine öğrenmesinin temel prensiplerini kavrayacak,  
+- ✔️ Farklı modellerin nasıl çalıştığını anlayacak,  
+- ✔️ Edindiğiniz bilgileri gerçek dünyadaki projelerde uygulayabileceksiniz.
 
 ---
 
-### 4.  CART (Classification and Regression Tree)  
-Karar ağaçları yöntemiyle hem sınıflandırma hem de regresyon uygulamaları.
+## 📚 Faydalı Kaynaklar
 
----
-
-### 5.  Uygulamalar  
-Teorik bilgilerin gerçek veri setleri üzerinde pratik uygulaması.
-
----
-
-## 🎯 Eğitim Sonrası
-
-- Temel kavramları kavrayacak,
-- Farklı modelleri anlayacak,
-- Ve öğrendiklerinizi gerçek projelerde kullanabileceksiniz!
+- [Coursera - Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)  
+- [Scikit-learn Dokümantasyonu](https://scikit-learn.org/stable/)  
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 ---
