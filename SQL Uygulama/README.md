@@ -1,37 +1,52 @@
-📘 SQL Uygulama Projesi
-Bu proje, SQL’in temel ve ileri düzey konularını kapsayan uygulamalı bir çalışma ortamı sunar. Veri analizi ve raporlama süreçlerinde yaygın olarak kullanılan SQL komutları, sorgu teknikleri ve zaman fonksiyonları bu projede adım adım ele alınmıştır.
+# 📘 SQL Uygulama Projesi
 
-🔍 Proje Kapsamı
-Bu repo aşağıdaki SQL konularını örneklerle birlikte içermektedir:
+Bu proje, **SQL’in temel ve ileri düzey konularını** uygulamalı örneklerle öğrenebileceğiniz kapsamlı bir çalışma ortamı sunmaktadır.  
+Veri analizi ve raporlama süreçlerinde sıkça kullanılan SQL komutları, sorgu teknikleri ve zaman fonksiyonları adım adım ele alınmıştır.
 
-1.Giriş ve Temel Kavramlar
+---
 
- -SQL nedir?
+## 🔍 Proje Kapsamı
 
- -Veri tipleri (INT, VARCHAR, DATE, vb.)
+Aşağıdaki SQL konuları, örnek kodlar ve açıklamalarla detaylı olarak incelenmektedir:
 
-2.Temel SQL Komutları
+### 1️⃣ Giriş ve Temel Kavramlar  
+- SQL nedir?  
+- Veri tipleri: `INT`, `VARCHAR`, `DATE` ve diğerleri  
 
- -SELECT, WHERE, ORDER BY, TOP
+### 2️⃣ Temel SQL Komutları  
+- `SELECT`, `WHERE`, `ORDER BY`, `TOP`  
 
-3.Birden Fazla Tabloyla Çalışma
+### 3️⃣ Birden Fazla Tabloyla Çalışma  
+- JOIN türleri: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`  
+- Aggregate fonksiyonlar: `SUM()`, `AVG()`, `COUNT()` vb.  
 
- -JOIN türleri (INNER, LEFT, RIGHT)
+### 4️⃣ Gruplama  
+- `GROUP BY` ve `HAVING` koşulları  
 
- -Aggregate fonksiyonlar (SUM, AVG, COUNT, vb.)
+### 5️⃣ Window Fonksiyonları  
+- `RANK()`, `ROW_NUMBER()`, `DENSE_RANK()`  
 
-4.Gruplama
+### 6️⃣ Zaman Fonksiyonları  
+- Tarih ve zaman fonksiyonları: `YEAR()`, `MONTH()`, `DAY()`, `DATEDIFF()` vb.  
 
- -GROUP BY ve HAVING koşulları
+### 7️⃣ Trend Analizi ile Uygulamalı Çalışmalar  
+- `LEAD()` ve `LAG()` fonksiyonları kullanılarak veri değişimlerinin analizi  
 
-5.Window Functions
+---
 
- -RANK(), ROW_NUMBER(), DENSE_RANK()
+## 🎯 Proje Hedefi
 
-6.Zaman Fonksiyonları
+- SQL temel ve ileri düzey kavramlarını pratik yaparak öğrenmek,  
+- Karmaşık sorguları anlamak ve yazmak,  
+- Veri analizinde güçlü raporlar oluşturmak,  
+- Zaman serisi ve trend analizleri için SQL fonksiyonlarını etkin şekilde kullanmak.
 
- -YEAR(), MONTH(), DAY(), DATEDIFF(), vb.
+---
 
-7.Trend Analizi ile Uygulamalı Çalışmalar
+## 📚 Faydalı Kaynaklar
 
- -LEAD() ve LAG() fonksiyonlarıyla veri değişimlerinin analizi
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)  
+- [SQL Official Documentation](https://www.iso.org/standard/63555.html)  
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)  
+
+---
