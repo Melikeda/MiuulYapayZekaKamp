@@ -1,40 +1,60 @@
-# 📘 Python Programlama
+# 📘 Python Programlama & Veri Analizi Rehberi
 
-Bu klasör, Python temelleri ile veri analizi konularını kapsayan örnekler ve mini çalışmalar içermektedir. İçerik, hem temel kavramları hem de NumPy ve Pandas gibi veri analizi kütüphanelerini öğrenmek isteyenler için uygundur.
-
----
-
-## 📂 Klasör İçeriği
-
-### 🔹 Temel Python Konuları
-Aşağıdaki konular örnek kodlar ile anlatılmıştır:
-
-- **Veri Yapıları:** Listeler, demetler (tuples), sözlükler (dictionaries), kümeler (sets) gibi yapılar
-- **Fonksiyonlar:** Parametreli fonksiyonlar
-- **Koşullar:** `if`, `elif`, `else` yapıları ile karar verme mekanizmaları
-- **Döngüler:** `for` ve `while` döngüleri ile tekrar yapıları
-
-### 🔹 Veri Analizi
-Python'da veri analizi yaparken kullanılan NumPy ve Pandas kütüphanelerine yönelik çalışmalar:
-
-- `numpy_pandas.py`  
-  👉 NumPy dizileri ve Pandas DataFrame'leri üzerinde temel işlemler
-
-- `numpy_pandas_case.py`  
-  👉 NumPy ve Pandas bilgilerini pekiştiren uygulamalı örnekler
-
-### 🔹 Python Temelleri Case Dosyaları
-
-- `python_basics.py`  
-  👉 Python temel konularını örnek kodlarla anlatan dosya
-
-- `python_basics_case.py`  
-  👉 Fonksiyonlar, döngüler, koşullar vb. konuları kapsayan mini uygulama çalışması
+Bu klasör, **Python programlamanın temellerini** öğrenmek isteyenler ve **veri analizi** alanında pratik yapmak isteyenler için hazırlanmış kapsamlı örnekler ve mini uygulamalar içerir.  
+Kodlar sade, anlaşılır ve adım adım ilerlemeye uygundur.
 
 ---
 
-## 🧠 Hedef
+## 🚀 Klasör İçeriği
 
-Bu klasör; Python programlamayı yeni öğrenen veya veri analizi alanına geçiş yapmak isteyen bireyler için hazırlanan içeriklerden oluşmaktadır. Kodlar sade, anlaşılır ve pratik öğrenmeye uygundur.
+### 🔹 Temel Python Konuları  
+Python dilinin temel yapı taşları, örneklerle desteklenmiş şekilde aşağıdaki konuları kapsar:
+
+- 📝 **Veri Yapıları:**  
+  Listeler (`list`), Demetler (`tuple`), Sözlükler (`dict`), Kümeler (`set`)  
+- 🔧 **Fonksiyonlar:**  
+  Parametreli ve dönüş değerli fonksiyonlar  
+- ⚖️ **Koşul İfadeleri:**  
+  `if`, `elif`, `else` kullanımı ile karar mekanizmaları  
+- 🔄 **Döngüler:**  
+  `for` ve `while` döngüleri ile tekrar işlemleri  
+
+---
+
+### 🔹 Veri Analizi  
+Python'da veri analizi için sıkça kullanılan **NumPy** ve **Pandas** kütüphanelerine yönelik örnekler:
+
+| Dosya Adı            | Açıklama                                 |
+|----------------------|-----------------------------------------|
+| `numpy_pandas.py`     | NumPy dizileri ve Pandas DataFrame üzerinde temel işlemler |
+| `numpy_pandas_case.py`| NumPy ve Pandas bilgilerini pekiştiren uygulamalı örnekler  |
+
+---
+
+### 🔹 Python Temelleri Mini Projeleri  
+Python temel yapı taşlarını uygulamalı olarak pekiştirmenize olanak sağlayan mini çalışmalar:
+
+| Dosya Adı             | Açıklama                              |
+|-----------------------|-------------------------------------|
+| `python_basics.py`     | Temel Python konularını örneklerle anlatan dosya |
+| `python_basics_case.py`| Fonksiyonlar, döngüler, koşullar içeren mini uygulamalar |
+
+---
+
+## 🎯 Hedef Kitleniz  
+
+- Python programlamaya yeni başlayanlar  
+- Veri analizi alanında kendini geliştirmek isteyenler  
+- Pratik yaparak öğrenmeyi sevenler  
+
+---
+
+## 📚 Kullanılan Teknolojiler
+
+| Teknoloji | Açıklama                                   |
+|-----------|--------------------------------------------|
+| Python    | Programlama dili                           |
+| NumPy     | Sayısal hesaplamalar için kütüphane       |
+| Pandas    | Veri analizi ve manipülasyonu için kütüphane |
 
 ---
